@@ -44,3 +44,21 @@ This project contains the backend implementation of the Event APIs for the DT Ro
 - No fixed schema is defined
 - APIs tested using Postman
 
+
+## Postman API Test Screenshots
+
+### Create Event (POST)
+![Create Event](screenshots/postman-create-event.png)
+
+### Get Event by ID (GET)
+![Get Event](screenshots/postman-get-by-id.png)
+
+### Get Latest Events
+![Latest Events](screenshots/postman-latest-events.png)
+
+### Update Event
+![Update Event](screenshots/postman-update-event.png)
+
+### Delete Event
+![Delete Event](screenshots/postman-delete-event.png)
+
