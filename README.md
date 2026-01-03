@@ -10,10 +10,10 @@ This project contains the backend implementation of the Event APIs for the DT Ro
 ## How to Run and Test the API
 
 1. Clone the repository
-   git clone <https://github.com/Shubham1213s/DT-Task-1-Project-Solutions.git>
+   `git clone` <https://github.com/Shubham1213s/DT-Task-1-Project-Solutions.git>
 
 2. Navigate to the project directory
-   cd dt-task-1-event-api
+   cd `dt-task-1-event-api`
 
 3. Install dependencies
    Run `npm install`
