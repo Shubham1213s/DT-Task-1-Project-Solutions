@@ -21,7 +21,7 @@ This project contains the backend implementation of the Event APIs for the DT Ro
 4. Start MongoDB service and Ensure MongoDB is running locally on localhost:27017
 
 5. Start the server
-   Run node server.js
+   Run `node server.js`
 
 6. Test the APIs using Postman
    - POST /api/v3/app/events
